@@ -1,15 +1,8 @@
- # adding code blocks.
-  ## this is me trying to add some code blocks to the file.
-   # EXAMPLE 1
-   ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
- # EXAMPLE 2
- ``` javascript
-var myVar = "Hello, world!";
-```
+ # Let's try to add a task list!!!
+ - [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] let's check if it worked
+- [x ] yes! it worked
 
-
-
-### commit change: added code blocks to the file.
+### commit change: created a task list in the file.
