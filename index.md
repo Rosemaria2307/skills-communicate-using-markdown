@@ -1,6 +1,15 @@
- # this is me trying to edit this file using headers.
-  ## I'm trying to use various types of headers.
-   ### ok let's do the rest.
-  ### commit change: edited the file with headers.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
- ## tried including an image.
+ # adding code blocks.
+  ## this is me trying to add some code blocks to the file.
+   # EXAMPLE 1
+   ```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+ # EXAMPLE 2
+ ``` javascript
+var myVar = "Hello, world!";
+```
+
+
+
+### commit change: added code blocks to the file.
